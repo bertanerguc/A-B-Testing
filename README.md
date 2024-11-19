@@ -1,7 +1,3 @@
-Here’s a visually appealing and well-structured `README.md` file for the **A/B Testing** project:
-
----
-
 # 🌟 A/B Testing for Bidding Methods
 
 This project analyzes the results of an A/B test comparing **Maximum Bidding** and **Average Bidding** methods to determine which generates higher **purchase conversions**.
